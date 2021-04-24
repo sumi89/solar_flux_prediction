@@ -14,3 +14,6 @@ We have also analysed the data using Principal Component Analysis (xl_max_from_x
 
 As the flares are rare events, there are more non-flare samples compared to the flare samples. That is why we have also used
 data augmentation to generate some synthetic flare samples (xl_max_from_xl_w_data_augmentation_cnn1d_v1)
+
+Paper:
+https://ieeexplore.ieee.org/document/9207284
